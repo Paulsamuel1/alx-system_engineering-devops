@@ -1,1 +1,1 @@
-Shell redirections
+alias project
